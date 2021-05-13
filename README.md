@@ -1,2 +1,2 @@
 # selinium_sample
-selinium sample files
+selinium sample files for starting projects
